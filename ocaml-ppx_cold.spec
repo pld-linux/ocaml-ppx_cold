@@ -43,7 +43,7 @@ używających biblioteki ppx_cold.
 
 %package devel
 Summary:	Expand @cold into @inline/@specialise/@local never - development part
-Summary(pl.UTF-8):	Rozwijanie @cold do @inline/@specialise/@local never - cześć programistyczna
+Summary(pl.UTF-8):	Rozwijanie @cold do @inline/@specialise/@local never - część programistyczna
 Group:		Development/Libraries
 Requires:	%{name} = %{version}-%{release}
 %requires_eq	ocaml
